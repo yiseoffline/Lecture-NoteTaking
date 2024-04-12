@@ -22,7 +22,7 @@ hey(bingo)
 hey(cow)
 hey(sheep)
 
-# 기능이 추가 되어도 수정이 안 필요한 코드
+# 기능이 추가 되어도 수정이 안 필요한 코드임
 
 class Animal:
     def speak(self):
