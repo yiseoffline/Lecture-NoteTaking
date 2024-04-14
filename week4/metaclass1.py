@@ -13,6 +13,8 @@ class int(metaclass=MyInt):
 
 # int 클래스의 인스턴스 생성
 i=int(4,5)
+i2 = int (5,6)
+print(i == i2)
 
 '''
 출력
