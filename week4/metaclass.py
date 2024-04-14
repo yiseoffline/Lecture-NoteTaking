@@ -13,3 +13,9 @@ class int(metaclass=MyInt):
 
 # int 클래스의 인스턴스 생성
 i=int(4,5)
+
+'''
+출력
+my int (4, 5)
+now do whatever you want with these objects ...
+'''
