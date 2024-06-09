@@ -35,3 +35,14 @@ try:
     attempt_to_start_engine(electric_car_nolsp)
 except NotImplementedError as e:
     print(f"오류 : {e}")
+
+'''
+출력 결과
+
+LSP를 따르는 경우 : 
+엔진이 시작됩니다
+엔진이 시작됩니다
+
+LSP를 따르지 않는 경우 : 
+엔진이 시작됩니다
+'''
