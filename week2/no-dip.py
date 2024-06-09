@@ -15,7 +15,7 @@ class Switch:
         self.light = Light()
         self.fan = Fan()
     def turn_light_on(self):
-            self.light.turn_on()
+        self.light.turn_on()
     def turn_light_off(self):
         self.light.turn_off()
     def turn_fan_on(self):

@@ -6,11 +6,11 @@ class Server():
     def __init__(self):
         self.device = Device()
     def open(self):
-        print('open')
+        pass
     def print(self):
         self.device.write()
     def close(self):
-        print('close')
+        pass
 
 class Client():
     def __init__(self):
